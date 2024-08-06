@@ -19,7 +19,7 @@ function Stopwatch() {
           let milliseconds = prevTime.milliseconds + 10;
           if (milliseconds >= 1000) {
             milliseconds = 0;
-            prevTime.seconds += 0.5;
+            prevTime.seconds += 1;
           }
           if (prevTime.seconds >= 60) {
             prevTime.seconds = 0;
