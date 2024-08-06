@@ -70,7 +70,7 @@ The `Stopwatch` component is the main component that handles the following:
 
 ## Live Demo
 
-Check out the live demo [here](https://gideonagyage.github.io/Stopwatch-App/).
+Check out the live demo [here](https://stopwatch-app-phi.vercel.app/).
 
 ## Key Concepts
 
